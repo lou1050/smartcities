@@ -7,9 +7,8 @@ Ce laboratoire d'initiation a pour objectif de programmer une carte **Raspberry 
 ##  Matériel Requis
 
 * **1x** Carte Raspberry Pi Pico W (avec firmware MicroPython installé)
-* **1x** Module LED (ou une LED avec sa résistance de limitation ~220–330 Ω)
+* **1x** Module LED
 * **1x** Module Bouton-poussoir
-* Des câbles de raccordement (Dupont) et une plaque d'essai (*breadboard*)
 * Un câble Micro-USB (données + alimentation)
 * L'IDE **Thonny** (recommandé pour MicroPython)
 
