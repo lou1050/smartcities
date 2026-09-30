@@ -5,6 +5,6 @@
 - [GPIO](GPIO)
 - [AD-PWM](AD-PWM)
 - [LCD](LCD)
-- [LCD_neo](LCD_neo)
+- [LED_neo](LED_neo)
 - [Network](Network)
 - [sensors](sensors)
