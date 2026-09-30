@@ -8,11 +8,11 @@ Ce laboratoire d'initiation a pour objectif de programmer une carte **Raspberry 
 
 * **1x** Carte Raspberry Pi Pico W
 * **1x** Module LED
-<img width="200" height="231" alt="PXL_20260925_141637414 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/7e2f9ce1-1494-40a5-b194-ef04f18b66a1" />
+<img width="200" height="179" alt="PXL_20260925_141720552 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/ae0d63f7-99f3-4cdd-8e82-5e11254ba30b" />
 
 
 * **1x** Module Bouton-poussoir
-<img width="1615" height="1869" alt="image" src="https://github.com/user-attachments/assets/6a543924-92cd-455d-b17a-ad2a39941c3f" />
+<img width="200" height="231" alt="PXL_20260925_141637414 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/4de72f2a-0eb1-40dc-b1d2-cddba2b567dc" />
 
 * Un câble Micro-USB (données + alimentation)
 * L'IDE **Thonny** (recommandé pour MicroPython)
