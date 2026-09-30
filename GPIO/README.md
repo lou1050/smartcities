@@ -8,7 +8,8 @@ Ce laboratoire d'initiation a pour objectif de programmer une carte **Raspberry 
 
 * **1x** Carte Raspberry Pi Pico W
 * **1x** Module LED
-<img width="1127" height="1233" alt="image" src="https://github.com/user-attachments/assets/103c34ee-7216-4228-b0de-d936c77a91c4" />
+<img width="800" height="925" alt="PXL_20260925_141637414 MACRO_FOCUS MP" src="https://github.com/user-attachments/assets/0a1b9cb6-f22c-49a1-9938-6b5f8f078029" />
+
 
 * **1x** Module Bouton-poussoir
 <img width="1615" height="1869" alt="image" src="https://github.com/user-attachments/assets/6a543924-92cd-455d-b17a-ad2a39941c3f" />
